@@ -1,4 +1,4 @@
-voms-etics-build
+VOMS etics build
 ================
 
-VOMS ETICS build utils
+This repo hosts the configurations for the VOMS EMI3 etics build.

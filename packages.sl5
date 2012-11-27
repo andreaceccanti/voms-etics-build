@@ -1,0 +1,36 @@
+## VOMS Admin client
+http://radiohead.cnaf.infn.it:9999/view/All/job/voms-admin-client_EMI2_SL5/1599/os=SL5_x86_64/artifact/rpmbuild/SRPMS/voms-admin-client-2.0.17-1.sl5.src.rpm
+
+## VOMS Admin server
+http://radiohead.cnaf.infn.it:9999/view/All/job/voms-admin-server-EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-admin-server-2.7.1-1.sl5.src.rpm
+
+## VOMS c++  APIs, server and clients
+http://italiangrid.github.com/voms/packages/srpms/2.0.9-1/voms-2.0.9-1.src.rpm
+
+# VOMS mysql plugin
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mysql-plugin_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-mysql-plugin-3.1.6-1.sl5.src.rpm
+
+# VOMS oracle plugin
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-oracle-plugin_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-oracle-plugin-3.1.15-1.sl5.src.rpm
+
+## VOMS Java APIs v. 2.0.9
+http://italiangrid.github.com/voms-api-java/packages/srpms/2.0.9-1/voms-api-java-2.0.9-1.sl5.src.rpm
+
+## bcmail external dep for new java APIs
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/bouncycastle146-mail_SL5/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/bouncycastle146-mail-1.46-1.sl5.src.rpm
+
+## New JAVA APIs
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-api-java-rpm_3_0_SL5/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-api-java3-3.0-1.sl5.src.rpm
+
+## New VOMS clients
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-clients-rpm_3_0_SL5/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-clients3-3.0-1.sl5.src.rpm
+
+## VOMS Nagios plugin
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-nagios_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/nagios-plugins-voms-1.0.0-1.sl5.src.rpm
+
+## VOMS YAIM
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-yaim_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/yaim-voms-1.1.1-1.sl5.src.rpm
+
+## VOMS Metapackages
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mp_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/emi-voms-mysql-1.0.1-1.sl5.src.rpm
+http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mp_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/emi-voms-oracle-1.0.1-1.sl5.src.rpm
