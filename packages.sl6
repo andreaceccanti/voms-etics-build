@@ -2,7 +2,7 @@
 http://radiohead.cnaf.infn.it:9999/view/All/job/voms-admin-client_EMI2_SL5/1599/os=SL5_x86_64/artifact/rpmbuild/SRPMS/voms-admin-client-2.0.17-1.sl5.src.rpm
 
 ## VOMS Admin server
-http://radiohead.cnaf.infn.it:9999/view/SL6/job/voms-admin-server-EMI2_SL6/os=SL6_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-admin-server-2.7.1-1.sl6.src.rpm
+http://radiohead.cnaf.infn.it:9999/view/RPMS/job/voms-admin-server-rpm_3_0/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-admin-server-3.0.0-1.sl5.src.rpm
 
 ## VOMS c++  APIs, server and clients
 http://italiangrid.github.com/voms/packages/srpms/2.0.9-1/voms-2.0.9-1.src.rpm
