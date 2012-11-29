@@ -10,9 +10,9 @@ http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-api-java-deb_3_0/lastSucce
 http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-api-java-deb_3_0/lastSuccessfulBuild/artifact/debbuild/libvoms3-java_3.0.0-1.debian.tar.gz
 
 # BCMAIL 
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg.orig.tar.gz
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg-7.dsc
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg-7.debian.tar.gz
+# http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg.orig.tar.gz
+# http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg-7.dsc
+# http://radiohead.cnaf.infn.it:9999/view/DEB6/job/bouncycastle146-mail_Deb/lastSuccessfulBuild/artifact/debbuild/bouncycastle_1.46+dfsg-7.debian.tar.gz
 
 # VOMS clients
 http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-clients-deb_3_0/lastSuccessfulBuild/artifact/debbuild/voms-clients3_3.0.0.orig.tar.gz
