@@ -12,7 +12,3 @@ http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-clients-rpm_3_0_SL5/lastSuc
 
 ## VOMS Nagios plugin
 http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-nagios_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/nagios-plugins-voms-1.0.0-1.sl5.src.rpm
-
-## VOMS Metapackages
-#http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mp_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/emi-voms-mysql-1.0.1-1.sl5.src.rpm
-#http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mp_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/emi-voms-oracle-1.0.1-1.sl5.src.rpm
