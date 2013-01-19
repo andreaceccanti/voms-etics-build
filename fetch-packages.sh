@@ -12,7 +12,7 @@ srcPackagesDir=$1
 packagesFile=$2
 tag=master
 
-if [ $# -eq 3]; then
+if [ $# -eq 3 ]; then
 	tag=$3
 fi
 
