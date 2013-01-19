@@ -25,7 +25,7 @@ sed '/^#/d;/^$/d' $packagesFile > $packagesFile.stripped
 
 if [ ! -d "$srcPackagesDir" ]; then
 	echo "Building source packages dir $srcPackagesDir"
-	mkdir -P $srcPackagesDir
+	mkdir -p $srcPackagesDir
 fi
 
 echo "Downloading source packages..."
