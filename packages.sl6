@@ -1,14 +1,14 @@
 ## VOMS Admin server
-http://radiohead.cnaf.infn.it:9999/view/RPMS/job/voms-admin-server-rpm_3_0/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-admin-server-3.0.0-1.sl5.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-admin-server-3.0.0-1.src.rpm
 
 # VOMS mysql plugin
-http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-mysql-plugin_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-mysql-plugin-3.1.6-1.sl5.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-mysql-plugin-3.1.6-1.src.rpm
 
 # VOMS oracle plugin
-http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-oracle-plugin_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-oracle-plugin-3.1.15-1.sl5.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-oracle-plugin-3.1.15-1.src.rpm
 
 ## New VOMS clients
-http://radiohead.cnaf.infn.it:9999/view/SL6/job/voms-clients-rpm_3_0_SL6/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-clients3-3.0-1.sl6.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-clients3-3.0-1.sl6.src.rpm
 
 ## VOMS Nagios plugin
-http://radiohead.cnaf.infn.it:9999/view/SL5/job/voms-nagios_EMI2_SL5/os=SL5_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/nagios-plugins-voms-1.0.0-1.sl5.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/nagios-plugins-voms-1.0.0-1.src.rpm

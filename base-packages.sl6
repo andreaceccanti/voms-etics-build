@@ -1,11 +1,11 @@
 ## VOMS Admin client
-http://radiohead.cnaf.infn.it:9999/job/voms-admin-client-rpm/os=SL6_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-admin-client-2.0.18-1.sl6.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-admin-client-2.0.18-1.src.rpm
 
 ## VOMS c++  APIs, server and clients
-http://radiohead.cnaf.infn.it:9999/job/voms_2.x_SL6/os=SL6_x86_64/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-2.0.10-1.sl6.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-2.0.10-1.src.rpm
 
 ## VOMS Java APIs 
-http://italiangrid.github.com/voms-api-java/packages/srpms/2.0.10-1/voms-api-java-2.0.10-1.sl6.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-api-java-2.0.10-1.sl6.src.rpm
 
 ## New JAVA APIs
-http://radiohead.cnaf.infn.it:9999/view/SL6/job/voms-api-java-rpm_3_0_SL6/lastSuccessfulBuild/artifact/rpmbuild/SRPMS/voms-api-java3-3.0-1.sl6.src.rpm
+https://ci-01.cnaf.infn.it/download/voms/voms-api-java3-3.0.0-1.sl6.src.rpm

@@ -1,15 +1,15 @@
 ## VOMS Server, c++ APIs 
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms_2.x_Deb/os=Deb6_amd64/lastSuccessfulBuild/artifact/debbuild/voms_2.0.10.orig.tar.gz
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms_2.x_Deb/os=Deb6_amd64/lastSuccessfulBuild/artifact/debbuild/voms_2.0.10-1.dsc
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms_2.x_Deb/os=Deb6_amd64/lastSuccessfulBuild/artifact/debbuild/voms_2.0.10-1.debian.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/voms_2.0.10.orig.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/voms_2.0.10-1.dsc
+https://ci-01.cnaf.infn.it/download/voms/debian/voms_2.0.10-1.debian.tar.gz
 
 # VOMS Java APIs
 
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-api-java-deb_3_0/lastSuccessfulBuild/artifact/debbuild/libvoms3-java_3.0.0.orig.tar.gz
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-api-java-deb_3_0/lastSuccessfulBuild/artifact/debbuild/libvoms3-java_3.0.0-1.dsc
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-api-java-deb_3_0/lastSuccessfulBuild/artifact/debbuild/libvoms3-java_3.0.0-1.debian.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/libvoms3-java_3.0.0.orig.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/libvoms3-java_3.0.0-1.dsc
+https://ci-01.cnaf.infn.it/download/voms/debian/libvoms3-java_3.0.0-1.debian.tar.gz
 
 # VOMS clients
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-clients-deb_3_0/lastSuccessfulBuild/artifact/debbuild/voms-clients3_3.0.0.orig.tar.gz
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-clients-deb_3_0/lastSuccessfulBuild/artifact/debbuild/voms-clients3_3.0.0-1.dsc
-http://radiohead.cnaf.infn.it:9999/view/DEB6/job/voms-clients-deb_3_0/lastSuccessfulBuild/artifact/debbuild/voms-clients3_3.0.0-1.debian.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/voms-clients3_3.0.0.orig.tar.gz
+https://ci-01.cnaf.infn.it/download/voms/debian/voms-clients3_3.0.0-1.dsc
+https://ci-01.cnaf.infn.it/download/voms/debian/voms-clients3_3.0.0-1.debian.tar.gz
