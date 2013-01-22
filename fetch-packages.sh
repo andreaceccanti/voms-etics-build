@@ -19,7 +19,7 @@ fi
 
 echo "Starting ETICS VOMS build..."
 echo "Downloading packages file..."
-wget --no-check-certificate $base_url/$tag/$packagesFile
+wget -q --no-check-certificate $base_url/$tag/$packagesFile
 
 # Strip comments
 sed '/^#/d;/^$/d' $packagesFile > $packagesFile.stripped
@@ -30,7 +30,7 @@ if [ ! -d "$srcPackagesDir" ]; then
 fi
 
 echo "Downloading source packages..."
-wget --no-check-certificate -P $srcPackagesDir -i $packagesFile.stripped
+wget -q --no-check-certificate -P $srcPackagesDir -i $packagesFile.stripped
 
 echo "Downloaded source packages:"
 ls -l  $srcPackagesDir
