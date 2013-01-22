@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 base_url=https://raw.github.com/andreaceccanti/voms-etics-build
 
